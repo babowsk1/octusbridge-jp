@@ -1,13 +1,13 @@
-# BRIDGE economics
+# BRIDGEエコノミクス
 
-The yield from BRIDGE tokens is proportional to the amount locked in contracts.
+BRIDGEトークンの利回りは、コントラクトにロックされたBRIDGEトークンの量に比例します。
 
-The return received by the stakeholders is proportional to their share of the bet, and the part that goes to the relayers is evenly distributed among all active relayers. Dividends are paid in BRIDGE tokens.
+ステークホルダーが受け取るリターンは、割合に比例し、リレイヤーに渡る部分はアクティブリレイヤー全員に均等に分配されます。配当はBRIDGEトークンで支払われます。
 
-The payments themselves take place as follows:
+支払い自体は以下のように行われます：
 
-50% of dividends are distributed among all stakeholders (including relayers), in proportion to the amount of invested BRIDGE tokens. The remaining 50% is distributed among all relayers in equal proportion.
+配当の50％は、投資したBRIDGEトークンの量に比例して、ステークホルダー全員（リレイヤーを含む）に分配されます。残りの50％は、リレイヤー全員に均等に分配されます。
 
-Here's an example: Assume that the liquidity pool contains a number of tokens equivalent to $10.000.000 Imagine that there are 100 stakeholders in the pool, 20 of which are relayers, and the profitability of the protocol is 5%, respectively, the income from all liquidity will be $500,000, of which $250,000 will be distributed among the stakeholders in proportion to their share in the pool, and the remaining $250,000 will be distributed in equal shares between relayers - $12,500 respectively.
+以下はその例です：流動性プールに$10.000.000相当のトークンが含まれていると仮定します。プールに100人のステークホルダーがいて、そのうち20人がリレイヤーで、プロトコルの収益性がそれぞれ5％と仮定すると、それぞれ全ての流動性の収入は50万ドルとなり、そのうち25万ドルは、プールのシェアに比例してステークホルダーに分配され、残りの25万ドルはリレイヤー間にそれぞれ12,500ドルを均等に分配されます。
 
 ![](<../../.gitbook/assets/image (22).png>)

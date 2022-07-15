@@ -1,25 +1,25 @@
-# How to create a proposal
+# 提案の作成方法
 
-To create a new proposal, go to the appropriate section of the **Governance** interface.
+新しい提案を作成するには、**ガバナンス**インターフェースの適切な項目に移動します。
 
 ![](<../../../.gitbook/assets/image (35).png>)
 
-Here you need to fill in several fields:&#x20;
+ここでは、いくつかの項目を入力する必要があります:
 
-* **Title** - the name of the proposal.
-* **Discussion link** - link to the page (github, forum, etc.) dedicated to the discussion of the proposal.&#x20;
-* **Description** - a description of the proposal: its essence and usefulness for the network.
+* **タイトル** - 提案の名前
+* **議論リンク** - 提案の議論に特化したページ（github、フォーラム等）へのリンク
+* **説明** - 提案の説明：ネットワークの本質と有用性
 
-After filling in the appropriate fields, you can **add actions** (smart contracts)that will be performed by this proposal - this could be adding a new token, supporting a new network, etc.&#x20;
+該当欄を入力後、新しいトークンの追加や新しいネットワークのサポート等、この提案によって実行される**操作**（スマートコントラクト）を**追加**することができます。
 
-Fill in all relevant fields and click **Submit**.&#x20;
+該当項目を全て入力し、\[**送信**]をクリックします。
 
 ![](<../../../.gitbook/assets/image (38).png>)
 
-After that, you need to deploy the appropriate contracts in both networks - just click on the buttons that appear, Octus Bridge will perform all the necessary actions automatically. After going through all the steps, click **Save**.
+その後、両方のネットワークで適切なコントラクトをデプロイする必要があります。表示されるボタンをクリックするだけで、Octus Bridgeは必要な全ての操作を自動的に実行します。全ステップを完了したら、［**保存**］をクリックします。
 
 ![](<../../../.gitbook/assets/image (19).png>)
 
-When you have added all the required actions, click **Publish proposal** to submit it for consideration.
+必要な操作を全て追加したら、\[**提案を公開する**]をクリックして、検討のために送信します。
 
 ![](<../../../.gitbook/assets/image (23).png>)

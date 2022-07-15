@@ -1,12 +1,12 @@
-# DAO overview
+# DAO概要
 
-The DAO overview is intended to showcase stakeholder activity. \
+DAOの概要は、ステークホルダーの活動を紹介するためのものです。\
 \
-The graph shows the number of Bridge tokens locked in the DAO in dollars. Additional information is displayed on the left side of the block:
+下のグラフは、DAOにロックされたBridgeトークン数をドルで表示しています。画面左側には、次の追加情報が表示されています：
 
-* BRIDGE reserves - The total amount of "BRIDGE" tokens in the stack.
-* Delegated votes - Total number of votes cast.
-* Voting addresses - Total number of wallets eligible to vote.
-* Proposals - Total number of accepted proposals.
+* BRIDGE リザーブ - スタックにある「BRIDGE」トークンの総量
+* デリゲート投票 - 投票された総数
+* 投票アドレス - 投票権を持つウォレットの総数
+* 提案 - 承認された提案の総数
 
 ![](<../../../.gitbook/assets/image (39).png>)

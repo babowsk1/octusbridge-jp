@@ -1,15 +1,13 @@
 ---
-description: Octus Bridge introduction.
+description: Octus Bridgeのご紹介
 ---
 
-# Welcome to Octus Bridge
-
-
+# Octus Bridgeへようこそ
 
 {% embed url="https://youtu.be/x-7boWwipKA" %}
 
-Octus Bridge is a platform built by the Broxus team that enables cross-chain asset transfers between Everscale and other networks such as Ethereum, BNB Chain, Fantom and Polygon.
+Octus BridgeはBroxusチームが構築したプラットフォームで、Everscale、Ethereum、BNB Chain、Fantom、Polygonなどのネットワーク間でクロスチェーンによるアセット転送を可能にします。
 
-The platform also implements the [**Governance** ](governance/)interface or **DAO**, which provides a level of decentralization unprecedented for bridges due to the ability to make decisions directly by network participants, as well as a [**staking interface**](staking/).
+また、このプラットフォームは、[**ガバナンス**](governance/)インターフェースや**分散型自立組織(DAO)**も実装しているため、[**ステーキングインターフェイス**](staking/)同様、ネットワーク参加者が直接決定を下す機能により、Bridgeにこれまでにないレベルの分散化を実現します。
 
-Octus Bridge is a central part of Everscale DeFi ecosystem, allowing liquidity to move freely between blockchains to support other DeFi products and provide liquidity.
+Octus BridgeはEverscale DeFiエコシステムの中心的存在であり、ブロックチェーン間で流動性を自由に移動させ、他のDeFi製品をサポートし、流動性を提供しています。

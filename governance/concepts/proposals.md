@@ -1,20 +1,20 @@
-# Proposals
+# 提案
 
-## How proposals work
+## 提案の仕組み
 
-It should be noted right away that in order to create a proposal, you need to have at least 100,000 BRIDGE tokens in staking.
+ここで注意しなければならないのは、提案を作成するためには、最低でも10万BRIDGEトークンのステーキングが必要であることです。
 
-After that, you fill out the [**Create new proposal**](../create-proposals/) form and submit it for review. Verification considers two main aspects
+その後、［[**新しい提案作成**](../create-proposals/)］フォームに必要事項を入力し、送信すると検証が行われます。検証は主に次の2点を考慮します
 
-1. Usefulness for the network&#x20;
-2. Technical feasibility
+1. ネットワークへの有用性
+2. 技術的実現性
 
-After verification, the proposal is sent to the vote. In order to be eligible to vote, the stakeholder must have BRIDGE tokens on their balance sheet. The significance of the stakeholder's voice directly depends on their number. Voters also have 3 voting options: For, Against and Abstain.
+検証後、提案は投票に送られます。投票権を得るためには、ステークホルダーは残高シートにBRIDGEトークンを保有している必要があります。ステークホルダーの声の重要性は、ステークホルダーの数に直接左右されます。また、投票者には3つの投票オプションがあります：賛成、反対、破棄の３つです。
 
-The weight of the vote is taken into account during the entire voting period in case the voter's BRIDGE balance has decreased or increased since the moment of voting.
+投票者のBRIDGE残高が投票時点より減少または増加した場合、投票期間中、投票の重みが考慮されます。&#x20;
 
-After voting is completed, the proposal is assigned one of the following statuses: Accepted, Rejected, Canceled.
+投票終了後、提案には、採択・不採択・取消のいずれかのステータスが付与されます。
 
-If the proposal is accepted, the team approves the technical solution, plans the implementation and improves the system.
+提案が採用された場合、チームは技術的な解決策を承認し、実装を計画し、システムを改善します。
 
-The implementation of this voting works through open voting, i.e. information about how this or that vote was distributed can be viewed by anyone.
+この投票の実装は、オープンな投票、つまり、この投票がどのように分配されたかという情報を誰でも確認できることで機能します。

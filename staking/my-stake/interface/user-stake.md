@@ -1,12 +1,12 @@
-# User stake
+# ユーザーステーク
 
-User stake is designed to show the user his income on a monthly and annual basis.
+ユーザーステークでは、月単位や年単位で獲得したユーザーの収入が表示されています。
 
-Let's analyze it in detail:
+詳しく分析してみましょう:
 
-* TVL, BRIDGE - Shows the total number of BRIDGE tokens frozen.
-* Frozen stake, BRIDGE - Shows the total number of frozen BRIDGE tokens in Relayers.
-* 30d reward, BRIDGE - Shows the amount of rewards received during the month.
-* Average APR **-** The amount of rewards received per year.
+* TVL, BRIDGE - 凍結されたBRIDGEトークンの総数を表示しています。
+* 凍結ステーク, BRIDGE - リレイヤーで凍結されたBRIDGEトークンの総数が表示されます。
+* 30日間リワード、BRIDGE - 当月に受け取ったリワード量を表示しています。
+* 平均APR - 1年間に受け取ったリワード量。
 
 ![](<../../../.gitbook/assets/image (11).png>)

@@ -1,7 +1,7 @@
-# How does Staking work?
+# ステーキングの仕組みは？
 
-The whole point of stacking is that Proof-of-Stake (PoS) blockchains entrust transaction processing and block creation to special trusted nodes. Validators take turns in supporting the network, and the chance that you will be the one tasked with generating the next block increases in direct proportion to the number of coins in your wallet balance. This money is a guarantee that the nodes will not act to the detriment of the system, because then they will suffer themselves.
+スタッキングの要点は、プルーフ・オブ・ステーク（PoS）ブロックチェーンがトランザクション処理とブロック生成を信頼できる特別なノードに委託していることです。バリデータは交代でネットワークをサポートするため、あなたが次のブロックの生成を任される確率は、あなたのウォレットに残っているコインの数に比例して増加します。このお金は、ノードがシステムに悪影響を与えないことを保証するものです。
 
-To raise their rating, they attract the assets of other holders by paying them a portion of their share. Of course, you can try to become a validator yourself, but then you have to have enough money and ensure that your node synchronizes smoothly with the network. Also, in most POS systems, validators are selected and re-elected by voting. If you are a newbie, you have almost no chance of being elected. But this way you just lock the coins into a separate address, and after a certain amount of time you start getting dividends. That's how staking works in general terms, although the specific requirements may vary from blockchain ecosystem to blockchain ecosystem. So carefully study the staking requirements of your particular peer-to-peer network.
+格付けを上げるために、他の保有者のアセットを引き寄せ、その一部を支払います。もちろん、自分でバリデータになろうとすることもできますが、その場合は十分な資金が必要ですし、自分のノードがネットワークとスムーズに同期できるようにしなければなりません。また、多くのPOSシステムにおいてバリデータは投票によって選出され、再選されます。初心者の場合、当選する可能性はほぼありません。でも、この方法ならコインを別のアドレスにロックしておくだけで、一定期間経過すると配当がもらえるようになります。特定の要件はブロックチェーンエコシステムごとに異なる場合がありますが、これが一般的なステーキングの仕組みです。そのため、特定のピア・ツー・ピアネットワークのステーキング要件を慎重に調べてください。
 
-Freezing virtual coins protects the network from inflation, because token holders have an incentive not to dump their assets at the first opportunity, but to hold on to them while earning passive income. This helps maintain the balance of supply and demand, protecting the asset from depreciation to some extent.
+バーチャルコインを凍結することで、ネットワークをインフレから保護します。トークン保有者には、最初の機会にアセットを捨てず、受動的収入を得ながらアセットを保持するインセンティブがあるからです。これにより、需要と供給のバランスが保たれ、アセットをある程度の減価から保護することが可能です。

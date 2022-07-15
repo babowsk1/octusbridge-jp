@@ -1,14 +1,14 @@
-# TOP voters by voting power
+# 投票権ごとの上位投票者
 
-The bottom block is Governance overview - **Top voters by voting power**.
+最後の項目は、ガバナンス概要 - **投票権ごとの上位投票者**です。
 
-TOP voters by voting power is designed to show the most important stakeholders of Octus Bridge in the voting process.
+投票権ごとの上位投票者は、投票プロセスにおいてOctus Bridgeの最も重要なステークホルダーを示すようにされています。
 
-* Address - Shows the address of the holder's wallet.
-* Votes - Displays the number of "BRIDGE" tokens deposited, respectively, the greater the number of coins, the greater the effect of the vote.
-* Vote weight - Shows the influence of user votes as percentage of the total amount (The line is active, by clicking on it you can set the order in ascending or descending direction).
-* Proposals voted - Shows the total number of votes cast by an individual user (The line is active, by clicking on it you can set the order in ascending or descending direction.)
+* アドレス - 保有者ウォレットのアドレスを表示しています。
+* 投票 - ［BRIDGE］預け入れられたトークン数を表示し、それぞれコイン数が多いほど投票効果が高くなります。
+* 投票の重み - 総量に対する割合でユーザー投票の影響力を表示しています。(行はクリックすることで昇順・降順に設定できます)
+* 投票された提案 - 個別ユーザーによる投票数の合計が表示されています。 (行はクリックすることで昇順・降順に設定できます)
 
-**View leaderboard** tab will redirect you to a more [detailed list of stakeholders](../../../staking/explorer/interface/explorer.md).
+［**リーダーボードを確認する**］タブをクリックすると、[ステークホルダー詳細一覧](../../../staking/explorer/interface/explorer.md)にリダイレクトされます。
 
 ![](<../../../.gitbook/assets/image (59).png>)

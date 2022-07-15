@@ -1,6 +1,6 @@
 ---
-description: Transaction interface
+description: トランザクションインターフェイス
 ---
 
-# History
+# 履歴
 

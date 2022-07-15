@@ -1,21 +1,20 @@
 ---
-description: Moving any tokens between any networks
+description: どのネットワーク間でも、あらゆるトークンを移動させる
 ---
 
-# Universal Bridge
+# ユニバーサルブリッジ
 
-**Universal Bridge** is a mechanism that allows any token to be transferred from another network to Everscale and then to other networks.
+**ユニバーサルブリッジ**は、どのトークンも他のネットワークからEverscaleに転送し、さらに他のネットワークに転送できるようにする仕組みです。
 
 {% hint style="warning" %}
-At the moment, the Universal Bridge does not support working with two outside networks.
+現時点では、ユニバーサルブリッジは2つの外部ネットワークとの連携には対応していません。
 {% endhint %}
 
-At the [step of choosing a token to send](../cross-chain-transfer/how-to/transferring-from-another-network-to-everscale.md#select-token-and-amount) to Everscale, you can add any missing token to the list:
+Everscaleに[送信するトークンを選択するステップ](../cross-chain-transfer/interface/how-to/transferring-from-another-network-to-everscale.md#select-token-and-amount)で、足りないトークンをリストに追加することができます。
 
-1. Copy the **Root address** of this token (you can find it using blockchain explorer), and then paste it into the **Token line**.&#x20;
-2. Then click Import and confirm this action.&#x20;
+1. このトークンの［**ルートアドレス**］をコピーし（ブロックチェーンエクスプローラーを使用して見つけられます）、［**トークン欄**］に貼り付けます。
+2. 次に、［**インポート**］をクリックして、この操作を確定します。
 
-Now this token will be displayed in the general list of tokens!
+これで、このトークンがトークンの一般リストに表示されるようになります！
 
 ![](<../../.gitbook/assets/image (34).png>)
-

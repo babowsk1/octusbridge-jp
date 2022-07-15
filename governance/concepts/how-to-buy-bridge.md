@@ -1,14 +1,13 @@
-# How to buy BRIDGE
+# BRIDGEの購入方法
 
-At the moment, the only way to buy BRIDGE tokens is with **Flatqube**, a DEX developed by Broxus.
+現時点では、BRIDGEトークンを購入する方法は、Broxusが開発したDEXである**Flatqube**のみです。
 
-&#x20;Using the FlatQube **Swap interface**, you can easily exchange popular Everscale network tokens for Bridge tokens.&#x20;
+FlatQube **Swapインターフェイス**を使用すると、人気の高いEverscaleネットワークトークンをBridgeトークンに簡単に交換することができます。
 
 {% embed url="https://app.flatqube.io/swap" %}
 
 ![](<../../.gitbook/assets/image (26).png>)
 
-Use the **FlatQube documentation** if you have any questions:
+ご不明な点は、**FlatQubeの文献**をご参照ください：
 
 {% embed url="https://app.gitbook.com/o/-MUxjK3XWZCxuBwyXzkS/s/Hn2GVaDcxUKSq45GJhH0/use/swap" %}
-

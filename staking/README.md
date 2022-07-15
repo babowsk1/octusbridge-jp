@@ -1,6 +1,6 @@
 ---
-description: Octus Bridge staking interface
+description: Octus Bridgeステーキングインターフェース
 ---
 
-# Staking
+# ステーキング
 

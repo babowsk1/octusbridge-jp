@@ -1,13 +1,13 @@
-# How to Redeem
+# リディーム方法
 
-To get started, go to the **My stake** section of the staking interface, find the **My staking balance** block and select the **Redeem** function.
+まず、ステーキングインターフェイスの［**自分のステーク**］項目に移動し、「**自分のステーキング残高**」項目を確認し、［**リディーム**］機能を選択します。
 
-At the **Amount** field you need to specify the desired number of tokens that you want to withdraw. In order to specify all available amount click **Max**.
+**数量**欄で、引き出したいトークンの数を指定します。引き出し可能な数量を全て指定するには、［**最大**］をクリックします。
 
-After you have specified the amount, click **Redeem**.
+数量を指定した後、［**リディーム**］をクリックします。
 
 ![](<../../../.gitbook/assets/image (24).png>)
 
-Next, you need to confirm all actions in your EVER wallet. Note that you will need 11.5 EVER to pay for gas, most of which will be returned when the transaction is complete.
+次に、EVERウォレットで全ての操作を確定させます。なお、ガス手数料の支払いに11.5 EVERが必要ですが、そのほとんどはトランザクション完了時に返還されます。
 
-Now you need to wait a little bit for the operation to complete and your BRIDGE tokens will be in your EVER wallet.
+あとは操作が完了するまで少し待つと、BRIDGEトークンがお客様のEVERウォレットに入ります。

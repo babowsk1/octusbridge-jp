@@ -1,14 +1,14 @@
-# Transactions
+# トランザクション
 
-The transaction block displays your transactions in the Octus Bridge staking interface.
+トランザクション項目には、Octus Bridgeのステーキングインターフェースにお客様のトランザクションが表示されます。
 
-Displayed here:&#x20;
+下記が表示されます:
 
-* Transaction type (Deposit, Withdrawal, Reward, Freeze)&#x20;
-* Transaction ID&#x20;
-* Amount in BRIDGE tokens&#x20;
-* Transaction date
+* トランザクションタイプ (預け入れ, 引き出し, リワード, 凍結)
+* トランザクションID
+* BRIDGEトークンの量
+* トランザクション日時
 
-For convenience, at the top of the block, you can select the type of transaction you need.
+便宜上、項目の上部から必要なトランザクションタイプを選択できます。
 
 ![](<../../../.gitbook/assets/image (31).png>)

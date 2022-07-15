@@ -1,14 +1,14 @@
-# Governance proposals
+# ガバナンス提案
 
-The **Governance proposals** block displays all proposals.
+［**ガバナンス提案**］項目には、全ての提案が表示されています。
 
-The block also displays the following information:&#x20;
+また、この項目には以下の情報も表示されています：
 
-* Summary - the names of the innovations, (you can read more about each of them by clicking on the name).&#x20;
-* Status - Shows the current stage of the voting process.&#x20;
-* Voting - Displays the number of votes that support the introduction of the innovation and those that oppose it, as a percentage.&#x20;
-* Date - Displays the voting end date.
+* 概要 - イノベーションの名前。(名前をクリックすると、詳細が表示)
+* ステータス - 現在の投票段階を表示
+* 投票 - イノベーションの導入を支持する票数と反対する票数をパーセンテージで表示
+* 日付 - 投票終了日を表示
 
-In the upper right part of the block, you can set **filters** to search for proposals: by voting start and end date and status.
+右上で投票開始日、終了日、ステータスの**フィルター**を設定し、提案を検索することができます。
 
 ![](<../../../.gitbook/assets/image (14).png>)

@@ -1,6 +1,6 @@
 ---
-description: Start your acquaintance with Octus Bridge on the pages of this section
+description: この項目でOctus Bridgeが分かります。
 ---
 
-# Getting started
+# はじめに
 

@@ -1,10 +1,9 @@
-# My staking performance
+# 自分のステーキングパフォーマンス
 
-The **My staking performance** section is needed to keep track of your staking balance activity and consists of 3 main sections:
+［**自分のステーキングパフォーマンス**］項目は、ステーキング残高アクティビティを記録するために必要であり、3つの主要セクションで構成されています。
 
-* Balance section shows your overall staking balance.
-* History section shows the history of your staking deposits, so that you can see the progress of your deposits.
-* Reward section shows the amount of rewards you have earned.&#x20;
+* 残高項目は、お客様の全体的なステーキング残高を表示しています。
+* 履歴項目は、お客様のステーキングデポジット履歴を表示しているので、デポジット状況をご確認いただけます。
+* リワード項目は、お客様が獲得したリワードの量を示しています。
 
 ![](<../../../.gitbook/assets/image (2).png>)
-

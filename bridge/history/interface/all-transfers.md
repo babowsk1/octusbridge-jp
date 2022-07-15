@@ -1,20 +1,19 @@
 ---
-description: Transactions history
+description: トランザクション履歴
 ---
 
-# All transfers
+# 全ての転送
 
-The bottom block of the [**History section**](https://app.octusbridge.io/transfers) is **All transfers**.&#x20;
+[**履歴項目**](https://app.octusbridge.io/transfers)の最後は［**全ての転送**］です。
 
-All recent transfers with Octus Bridge are displayed here. \
-All transactions have several columns with information about them:&#x20;
+Octus Bridgeを使用して最近行われたトランザクションが全てここに表示されます。\
+どのトランザクションにも、そのトランザクションに関する下記の情報を示す項目があります：
 
-* Transfer amount in tokens&#x20;
-* Transaction type&#x20;
-* Address and networks of recipient and sender&#x20;
-* Transfer date
+* 転送量(トークン)
+* トランザクションタイプ
+* 差出人と受取人のネットワークとアドレス
+* 転送日
 
-In the upper right part of the block, you can enable and configure transaction **search filters** by sender address, date, source and target blockchain, sent token, transaction status and type.
+ブロックの右上では、差出人アドレス、日付、転送元および転送先ブロックチェーン、転送トークン、トランザクションステータスおよびタイプを選択できるトランザクション**検索フィルター**を有効にして設定することができます。
 
 ![](<../../../.gitbook/assets/image (13).png>)
-

@@ -1,15 +1,15 @@
 # Bridge DAO
 
-Octus Bridge, as a platform, does not have a centralized mechanism for making decisions.\
-Instead, the Bridge has a DAO interface, which was created as a mechanism to facilitate the adoption of certain operational decisions agreed upon directly by users of the Bridge. Users are able to participate via BRIDGE, the platform’s native utility token. \
+Octus Bridgeはプラットフォームとして、意思決定という中央集権的なメカニズムを持っていません。\
+その代わり、BridgeにはDAOインターフェースがあり、Bridgeユーザーによって直接合意された特定の運用上の意思決定採用を促進するメカニズムとして作成されました。ユーザーは、プラットフォームのネイティブユーティリティトークンであるBRIDGEを介して参加することができます。\
 \
-Any stakeholder that has BRIDGE tokens is capable of using their tokens to vote on platform proposals raised in the DAO.
+BRIDGEトークンを保有しているステークホルダーは、そのトークンを使ってDAOで提起されたプラットフォームの提案に投票することができます。
 
-The management of platform liquidity that is locked into the Bridge’s vault is also carried out by means of the DAO protocol.
+Bridgeのボルトにロックされているプラットフォームの流動性の管理は、DAOプロトコルによって行われます。
 
-If a stakeholder has a relatively large share of BRIDGE tokens, they can put their own proposals up for a vote.
+ステークホルダーがBRIDGEトークンのシェアを比較的多く保有している場合、自らの提案を投票にかけることができます。
 
-In order to participate in the voting process, you have to go to the **Governance** tab on the Bridge site where you will find all active and completed proposal votes.
+投票に参加するには、Bridgeサイトの［**ガバナンス**］タブにアクセスする必要があり、そこには有効かつ完了した提案投票が全て表示されています。
 
-To create your own proposal, you have to go to the **Create Proposal** section **** of the Governance interface.\
-In order to create your own proposal, you have to have at least 100,000 BRIDGE tokens.
+独自提案を作成するには、ガバナンスインターフェースの［**提案を作成する**］項目に移動します。\
+独自提案を作成するためには、少なくとも100,000 BRIDGEトークンを保有している必要があります。

@@ -1,9 +1,9 @@
-# Octus Bridge relayers
+# Octus Bridgeのリレイヤー
 
-The job of a bridge relayer (aka validator) is to come to a consensus about whether a transaction was actually made in one network and issue the appropriate amount of tokens in the other.
+bridgeリレイヤー（別名バリデータ）の仕事は、あるトランザクションが、あるネットワークで実際に行われたかどうかのコンセンサスを得て、もう一方のネットワークで適切量のトークンを発行することです。
 
-Failure to do so will cause the bridge to fail. However, interest in becoming validation nodes is fueled by issuing rewards for proper operation. Therefore, the bridge will never stop.
+これを怠ると、bridgeが故障してしまいます。しかし、適切な運用に対してリワードを発行することで、検証ノードになることへの関心を高めています。そのため、bridgeが停止することはありません。
 
-Technically, you shouldn't compare a relayer to a stacker. Although the former also receives cryptocurrency, but by a different algorithm. Mining nodes appear to be a subset of validator nodes.
+技術的には、リレイヤーとスタッカーを比較するべきではありません。前者も仮装通貨を受け取りますが、異なるアルゴリズムによるものです。マイニングノードはバリデータノードのサブセットのように見えます。
 
-The system also accounts for irresponsible users getting into relayers. The protection against unscrupulous relayers is a slashing mechanism, thanks to which relayer loses part or all of its steak if it tries to send a transaction that doesn't exist. And that's why you have to have a minimum steak size of 100,000 BRIDGE to be a bridge relayer.
+また、システムは無責任なユーザーがリレイヤーに入るのを考慮しています。無責任なリレイヤーに対する防御策として、存在しないトランザクションを送ろうとすると、リレイヤーが出資の一部または全部を失うスラッシングメカニズムがあります。そのため、BRIDGEリレイヤーになるには、最低10万BRIDGEのステーキングが必要です。

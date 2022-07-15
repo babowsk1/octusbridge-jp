@@ -1,17 +1,16 @@
-# How to Stake
+# ステーク方法
 
-To get started, go to the **My stake** section of the staking interface and [**connect the EVER Wallet**](../../../getting-started/how-to-connect-wallets.md#connect-wallets) if you haven't already.
+まず、ステーキングインターフェースの「**自分のステーク**」項目に行き、まだ[**EVER Walletを接続**](../../../getting-started/how-to-connect-wallets.md#connect-wallets)していない場合は行います。
 
-Under My staking balance in the **amount field** you need to specify how much BRIDGE you want to stake. \
-Or you can specify your maximum amount of BRIDGE by clicking on **MAX** button and click **Stake**.
+**数量欄**の［自分のステーキング残高］の下に、ステークしたいBRIDGE量を指定します。\
+または、**最大**ボタンをクリックし、**ステーク**をクリックすると、最大BRIDGE量を指定できます。
 
 ![](<../../../.gitbook/assets/image (44).png>)
 
-Then you need to confirm this action in your wallet EVER. \
-Note the commission is written 11.5 EVER. You will withdraw from a purse 11.5 EVER but most of them will return, in fact the commission will be approximately 2.8 EVER.
+そして、ウォレットのEVERで、この操作を確定します。\
+手数料は11.5 EVERと記載されていますので、ご注意してください。ウォレットから11.5 EVERが引かれますが、ほとんどが返還されるため、実際には手数料が約2.8 EVERになります。
 
-Upon successful completion of the transaction, you start to get reward every second, which will be burned in future Octus Bridge yield distribution and will be credited to us as bridge tokens. \
-You can see your total amount of staked tokens at [**My staking performance**](../interface/my-staking-performance.md) block.
+トランザクションに成功すると毎秒リワードを得られますが、将来のOctus Bridgeの利回り分配でバーンされ、Bridgeトークンとして当社に入金されます。\
+ステーキングされたトークンの総量は、［[**自分のステーキングパフォーマンス**](../interface/my-staking-performance.md)］項目でご確認いただけます。
 
 ![](<../../../.gitbook/assets/image (4).png>)
-

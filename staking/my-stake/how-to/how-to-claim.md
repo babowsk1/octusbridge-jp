@@ -1,9 +1,9 @@
-# How to Claim
+# 請求方法
 
-Go to the [**My stake**](../) section of the [**Staking interface**](../../). \
+****[**ステーキングインターフェイス**](../../)の「[**自分のステーク**](../)」項目に移動します。\
 \
-On the right side of the **My staking balance** block, select **Claim**. \
+［**自分のステーキング**］項目の右側にある［**請求**］を選択します。\
 \
-When the reward is available, you can get it by clicking on the appropriate button.
+リワードがある場合は、該当するボタンをクリックすることでリワードを得ることができます。
 
 ![](<../../../.gitbook/assets/image (54).png>)

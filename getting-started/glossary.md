@@ -1,25 +1,25 @@
 ---
-description: Octus Bridge terminology
+description: Octus Bridgeの専門用語集
 ---
 
-# Glossary
+# 用語解説
 
-****[**Cross-chain transfers**](../bridge/cross-chain-transfer/) **** - A feature that allows you to transfer tokens from one blockchain network to another
+\*\*\*\*[**クロスチェーン転送**](../bridge/cross-chain-transfer/)\*\*\*\* - あるブロックチェーンネットワークから別のブロックチェーンネットワークにトークンを転送することができる機能。
 
-**Blockchains** - networks where tokens are stored.
+**ブロックチェーン** - トークンが格納されている場所。
 
-****[**Stake** ](../staking/my-stake/)- Tokens locked in the stacking contracts.
+\*\*\*\*[**ステーク** ](../staking/my-stake/)- スタッキングコントラクトにロックされたトークン。
 
-****[**Explorer** ](../staking/explorer/interface/explorer.md)- A graphic user interface designed to allow users to analyze the activity of stakeholders.
+\*\*\*\*[**エクスプローラー**](../staking/explorer/interface/explorer.md) - ステークホルダーの活動を分析するために設計されたグラフィックユーザーインターフェイス。
 
-**Volume** - The transfer volume in USD for a certain period of time.
+**ボリューム** - 一定期間における米ドルの出来高。
 
-****[**DAO** ](../governance/)- Octus Bridge governance interface.&#x20;
+\*\*\*\*[**DAO** ](../governance/)- Octus Bridgeのガバナンスインターフェイス。
 
-****[**Transfers** ](../bridge/cross-chain-transfer/)- Token transfers between blockchain networks.
+\*\*\*\*[**転送**](../bridge/cross-chain-transfer/) - ブロックチェーンネットワーク間で行われるトークン転送。
 
-****[**Proposal** ](../governance/concepts/proposals.md)**-**  suggestion for any change in Octus Bridge through the [Governance ](../governance/)interface.
+\*\*\*\*[**提案**](../governance/concepts/proposals.md) - [ガバナンス](../governance/)インターフェースを通じて、Octus Bridgeのあらゆる変更を提案。
 
-****[**Relayer** ](../relayers/concepts/octus-bridge-relayers.md)- bridge validator.
+\*\*\*\*[**リレイヤー**](../relayers/concepts/octus-bridge-relayers.md) **** -Bridgeバリデータ。
 
-****[**BRIDGE** ](../governance/concepts/bridge-token.md)- a token used in various Octus Bridge interfaces.
+\*\*\*\*[**ブリッジ**](../governance/concepts/bridge-token.md) - Octus Bridgeの各種インターフェイスで使用されるトークン。

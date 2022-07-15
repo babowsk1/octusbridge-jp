@@ -1,26 +1,26 @@
 ---
-description: Who uses Octus Bridge
+description: Octus Bridgeの利用者
 ---
 
-# Roles
+# ルール
 
-## Users
+## ユーザー
 
-Any person who has [connected their wallet](how-to-connect-wallets.md) and started interacting with the Octus Bridge functionality can be considered a bridge user.
+[ウォレットを繋げ](how-to-connect-wallets.md)、Octus Bridgeの機能と相互作用を開始した者は、ブリッジユーザーとみなされます。
 
-## [Stakeholders](../staking/)
+## [ステークホルダー](../staking/)
 
-A stakeholder is a user who has locked any part of their BRIDGE tokens through the Octus Bridge [staking interface.](../staking/)
+ステークホルダーとは、Octus Bridge の[ステーキングインターフェース](../staking/)を通じて BRIDGEトークンの一部をロックしたユーザーのことです。
 
-## [Relayers](../relayers/)
+## [リレイヤー](../relayers/)
 
-A relayer is a bridge validator. \
-In fact, this is a stakeholder who bears additional responsibility, but also receives, as a result, an increased remuneration. To become an Octus Bridge validator, you must:
+リレイヤーは、Bridgeのバリデータです。\
+リレイヤーは、さらなる責任を負う代わりに、リワードが増額されるステークホルダーです。Octus Bridgeのバリデータになるには、以下のことが必要です：
 
-1. Stake at least 100,000 BRIDGE&#x20;
-2. Deploy a set of smart contracts.&#x20;
+1. 最低でも10万BRIDGEをステークすること
+2. 一連のスマートコントラクトをデプロイすること
 
-## [Voters](../governance/)
+## ****[**投票者**](../governance/)****
 
-Any stakeholder who owns Bridge tokens, in proportion to their share, is able to vote for certain proposals in the [governance interface](../governance/) of Octus Bridge. \
-The user participating in the DAO is called Voter.
+Bridgeトークンを所有するステークホルダーは、保有割合に比例して、Octus Bridgeの[ガバナンスインターフェース](../governance/)において、発案された提案に投票することができます。 \
+そのDAOに参加するユーザーは投票者と呼ばれます。

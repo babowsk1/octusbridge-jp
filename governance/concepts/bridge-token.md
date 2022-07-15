@@ -1,13 +1,13 @@
-# BRIDGE token
+# BRIDGEトークン
 
-The main functional purpose of BRIDGE tokens is the management of [DAO](../).
+BRIDGEトークンの主な機能目的は、[DAO](../)の管理です。
 
-Essentially, BRIDGE tokens represent your right to vote on various proposals. BRIDGE tokens are also required to participate in the Octus Bridge validation.
+基本的に、BRIDGEトークンは様々な提案に対して投票する権利を表しています。また、BRIDGEトークンは、Octus Bridgeの検証に参加するために必要です。
 
-Three fundamental values ​​of the BRIDGE token:&#x20;
+BRIDGEトークンの3つの基本的な価値：
 
-1. Voting rights (including pool liquidity management)&#x20;
-2. The right to receive dividends (proportional to the stake amount)&#x20;
-3. The ability to act as a relayer, which provides an additional income model.
+1. 投票権（プール流動性管理を含む）
+2. 配当を受け取る権利（出資額に比例する）
+3. 追加的な収入モデルを提供するリレイヤーとして活動できる能力
 
-You can also participate in farming by adding liquidity to one of the available pairs on FlatQube, receiving the same BRIDGE tokens as a reward. You can read more about farming in the [FlatQube documentation.](https://app.gitbook.com/o/-MUxjK3XWZCxuBwyXzkS/s/Hn2GVaDcxUKSq45GJhH0/)
+また、FlatQube上の可能なペアの1つに流動性を追加し、リワードとして同じBRIDGEトークンを受け取ることでファーミングに参加することができます。[FlatQubeの文献](https://app.gitbook.com/o/-MUxjK3XWZCxuBwyXzkS/s/Hn2GVaDcxUKSq45GJhH0/)でファーミングの詳細をご確認いただけます。

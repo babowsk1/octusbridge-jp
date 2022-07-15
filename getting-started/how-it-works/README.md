@@ -1,6 +1,6 @@
 ---
-description: Introduction to the basics of working with Octus Bridge interfaces
+description: Octus Bridgeインターフェイスの基本機能をご紹介します。
 ---
 
-# How it works
+# 仕組み
 

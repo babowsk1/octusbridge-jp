@@ -1,12 +1,11 @@
 ---
-description: Using Octus Bridge without EVER
+description: EVERを使用しないOctus Bridgeの使用
 ---
 
-# Invisible Bridge
+# インビジブルブリッジ
 
-### What is an invisible bridge and how it is arranged
+### インビジブルブリッジの概要
 
-**Invisible bridge** is a mode of bridge operation that involves two transitions: EVM network > Everscale network > another EVM network without the need to have a wallet or tokens in "EVER"
+**インビジブルブリッジ**は、2回の移動を伴うブリッジ操作のモードです。EVMネットワーク>Everscaleネットワーク>［EVER］ウォレットやトークンを必要としない別のEVMネットワークです。
 
-Works through a separate node called **credit processor**. It keeps track of transfers in different networks and gives credit in evers for depositing events, exchanging some part of the transfer to DEX (Decentralized Exchange) against payment of these commissions.
-
+**クレジットプロセッサ**と呼ばれる別のノードを介して動作します。様々なネットワークでの転送を追跡し、イベントのデポジットに対するEverのクレジットを付与し、これらの手数料の支払いと引き換えに、転送の一部をDEX（分散型取引所）に交換します。

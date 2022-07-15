@@ -1,11 +1,11 @@
-# My votes
+# 自分の投票
 
-**My votes** displays information about your vote potential:
+［**自分の投票**］は、あなたの投票可能性に関する情報を表示しています：
 
-* Voting power - the number of your votes (in proportion to staked BRIDGE tokens).&#x20;
-* Voting weight - potential influence on the outcome of the vote (your percentage of the total number of votes of all stakeholders).&#x20;
-* Proposals voted - the number of props you voted for.
+* 投票力 - 投票数 (ステークされたBRIDGEトークンに比例して)
+* 投票の重み - 投票結果に対する潜在的な影響力 (全ステークホルダーの総投票数に対するあなたの割合)
+* 投票された提案 - 投票した提案数
 
 ![](<../../../.gitbook/assets/image (52).png>)
 
-Click on **Create proposals** to go to the [page for creating a new proposal.](../../create-proposals/how-to/how-to-create-a-proposal.md)
+［**提案を作成する**］をクリックすると、[新しい提案を作成するページ](../../create-proposals/how-to/how-to-create-a-proposal.md)に移動します。

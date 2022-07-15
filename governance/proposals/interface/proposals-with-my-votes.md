@@ -1,12 +1,12 @@
-# Proposals with my votes
+# 自分の投票した提案
 
-The **Proposals with my votes** block displays information about the proposals you voted on:&#x20;
+［**自分の投票した提案**］項目には、自分が投票した提案に関する情報が表示されています：
 
-* Proposal number
-* Proposal name
-* My votes - the number of votes you cast
-* Status
-* Voting - the ratio of votes given for and against
-* Date - date of a certain stage of voting
+* 提案数
+* 提案名
+* 自分の投票 - 投じた票数
+* ステータス
+* 投票 - 得票率
+* 日付 - 投票日
 
 ![](<../../../.gitbook/assets/image (17).png>)

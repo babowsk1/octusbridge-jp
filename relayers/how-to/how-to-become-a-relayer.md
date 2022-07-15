@@ -1,24 +1,24 @@
-# How to become a relayer
+# リレイヤーになる方法
 
 {% hint style="info" %}
-As a reminder, in order to become a relayer, you need to stake at least 100,000 BRIDGE tokens. If you haven't staked the right amount yet, go to the staking interface to fix it.
+注意点として、リレイヤーになるためには、少なくとも100,000 BRIDGEトークンをステークする必要があります。まだこの額以上をステークしていない場合は、ステーキングインターフェースにアクセスして修正してください。
 {% endhint %}
 
 {% content-ref url="../../staking/" %}
 [staking](../../staking/)
 {% endcontent-ref %}
 
-Go to the **Relayers** section to the **Create a new relayer** section.&#x20;
+［**リレイヤー**］項目から［**新しいリレイヤーを作成する**］項目に移動します。
 
-To begin with, you need to enter in the <mark style="color:green;">appropriate fields</mark> 2 keys of the node you previously raised, then click **Send** and confirm this action by clicking **Confirm**.
+まず始めに、<mark style="color:green;">該当欄</mark>に以前に上げたノードの2つの鍵を入力し、\[**送信**]をクリックし、\[**確認**]でこの動作を確定します。
 
 ![](<../../.gitbook/assets/image (32).png>)
 
-Now you need to validate your keys (associate them with your staking address): \
-Click **Confirm** for Everscale and Ethereum Keys and then **Broadcast** Ethereum addresses to Everscale.
+ここで、鍵を検証します (ステーキングアドレスと鍵を関連付けます):\
+\[EverscaleとEthereum鍵を**確定する**]をクリックしてから、EthereumアドレスをEverscaleに**ブロードキャスト**します。
 
 ![](<../../.gitbook/assets/image (47).png>)
 
-After completing all the steps, you will receive a notification that the relayer has been created and you can go to the **Relayer page.**
+全手順が完了すると、リレイヤーが作成されたという通知が届き、**リレイヤーページ**に移動することができるようになります。
 
 ![](<../../.gitbook/assets/image (3).png>)

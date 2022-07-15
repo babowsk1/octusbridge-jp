@@ -1,6 +1,6 @@
 ---
-description: Everything about Octus Bridge transfers
+description: Octus Bridge転送に関する全て
 ---
 
-# Bridge
+# ブリッジ
 

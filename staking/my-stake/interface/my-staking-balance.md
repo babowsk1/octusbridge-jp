@@ -1,11 +1,11 @@
-# My staking balance
+# 自分のステーキング残高
 
-The **My Staking Balance** section is designed to deposit and withdraw BRIDGE tokens from your staking balance and receive earned rewards:
+**自分のステーキング残高**項目は、自分のステーキング残高からBRIDGEトークンを預け入れ・引き出し、獲得したリワードを受け取るためのものです。
 
-* The **Stake** window is necessary in order to make a deposit to Staking
-* The **Redeem** window has two functions:&#x20;
+* ［**ステーク**］ウィンドウは、ステーキングへの預け入れを行うために必要です。
+* ［**リディーム**］ウィンドウには、2つの機能があります：
 
-1. **Claim** - Used to display accumulated rewards.&#x20;
-2. **Redeem** - Outputs the desired amount of deposit that you made in Stacking.
+1. **請求** - 累積リワードを表示しています。
+2. **リディーム** - ステーキングで行った預け入れの希望額を出力します。
 
 ![](<../../../.gitbook/assets/image (58).png>)

@@ -1,25 +1,27 @@
 ---
-description: Instructions for connecting wallets
+description: ウォレットの接続方法をご紹介します
 ---
 
-# How to connect wallets
+# ウォレットの接続方法
 
-In order to start working with Octus Bridge, you need to connect two wallets.\
-At the moment, two wallets are available for connection:
+Octus Bridgeを使い始めるには、2つのウォレットを接続する必要があります。\
+現時点では、2つのウォレットが接続可能です：
 
-[Metamask ](https://metamask.io/)is used to interact with Fantom, Ethereum, Polygon, and BNB Chain. The user is thus able to switch between these networks directly in the browser extension.
+[Metamask](https://metamask.io/)は、Fantom, Ethereum, Polygon, BNBチェーンとの相互作用に使用されます。\
+そのため、ユーザーはブラウザの拡張機能でこれらのネットワークを直接切り替えることが可能です。
 
-[EVER Wallet](https://l1.broxus.com/freeton/wallet) is used to interact with the Everscale network.\
-You can find a tutorial on how to install and use the EVER Wallet by following this [link](https://app.gitbook.com/o/-MUxjK3XWZCxuBwyXzkS/s/vwtaQbYcgICT7ubKSITZ/).
+[EVER Wallet](https://l1.broxus.com/freeton/wallet)は、Everscaleネットワークとの相互作用に使用されます。\
+こちらの[リンク](https://app.gitbook.com/o/-MUxjK3XWZCxuBwyXzkS/s/vwtaQbYcgICT7ubKSITZ/)から、EVER Walletのインストール方法と使い方をご覧いただけます。
 
-## Connect wallets
+## ウォレットを接続する
 
-In the upper right corner of Octus Bridge, click on <mark style="color:orange;">**Connect wallet**</mark> and connect the appropriate wallets.
+Octus Bridgeサイトの右上隅にある<mark style="color:orange;">**［ウォレットを接続する］**</mark>をクリックして、\
+適切なウォレットを接続します。
 
 ![](<../.gitbook/assets/image (49).png>)
 
-## Disconnect wallets
+## ウォレットの接続を切る
 
-In order to disconnect the wallet from Octus Bridge, click on the button in the upper right corner:
+Octus Bridgeからウォレットの接続を切るには、右上隅のボタンをクリックします：
 
 ![](<../.gitbook/assets/image (48).png>)

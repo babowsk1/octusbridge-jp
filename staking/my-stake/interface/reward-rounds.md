@@ -1,5 +1,5 @@
-# Reward rounds
+# リワードラウンド
 
-The **reward rounds** show the start and end periods of the rewarded event, as well as the number of rewards the user has earned.
+**リワードラウンド**には、リワードイベントの開始日と終了日およびユーザーが獲得したリワード数が表示されます。
 
 ![](<../../../.gitbook/assets/image (15).png>)

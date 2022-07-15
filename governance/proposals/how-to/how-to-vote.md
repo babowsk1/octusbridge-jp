@@ -1,8 +1,8 @@
-# How to Vote
+# 投票方法
 
-In order to take part in voting for a certain proposal, go to the page of this proposal in the **Governance** section.
+ある提案に対する投票に参加するには、「**ガバナンス**」項目のこの提案ページに移動します。
 
-On the right side of the page, you can select <mark style="color:green;">**Vote for**</mark> <mark style="color:green;"></mark><mark style="color:green;">or</mark> <mark style="color:green;"></mark><mark style="color:green;">**Vote against**</mark>. \
-When choosing one of these options, your vote equivalent to your **Voting power** will be counted, and Bridge tokens will be locked until the end of the voting for one of the reasons (canceled by created, failed, expired, succeeded, queued or executed), after which you can unlock them.
+ページの右側で、<mark style="color:green;">**賛成**</mark> <mark style="color:green;">or</mark> <mark style="color:green;">**反対**</mark>を選択します。\
+これらの選択肢を選んだ場合、あなたの**投票権**に相当する票がカウントされ、Bridgeトークンはいずれかの理由（作成中止、失敗、期限切れ、成功、処理待ち、実行）で投票終了までロックされ、その後ロックを解除することが可能です。
 
 ![](<../../../.gitbook/assets/image (33).png>)

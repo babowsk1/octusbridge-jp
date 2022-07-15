@@ -1,8 +1,8 @@
-# Available chains and assets
+# 可能なチェーンとアセット
 
-Using the [**Universal Bridge**](universal-bridge.md) mechanism, you can transfer any tokens to and from Everscale, however, at the moment, Universal Bridge does not support working with two outside networks. \
+[**ユニバーサルブリッジ**](universal-bridge.md)の仕組みを利用すれば、Everscaleとの間でどんなトークンも転送できますが、現時点では、ユニバーサルブリッジは2つの外部ネットワークとの連携には対応していません。\
 \
-The tokens available for transfer from each network are shown in the table below:
+各ネットワークから転送可能なトークンは、以下の表の通りです：
 
 {% tabs %}
 {% tab title="Ethereum" %}
@@ -37,7 +37,7 @@ The tokens available for transfer from each network are shown in the table below
 
 {% tab title="Fantom Opera" %}
 * USDC
-* DAI&#x20;
+* DAI
 * WBTC
 * WETH
 {% endtab %}
@@ -48,9 +48,5 @@ The tokens available for transfer from each network are shown in the table below
 * USDC
 * WBTC
 * WETH
-{% endtab %}
-
-{% tab title="Milkomeda" %}
-
 {% endtab %}
 {% endtabs %}

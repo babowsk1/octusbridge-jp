@@ -1,13 +1,13 @@
 ---
-description: Mechanics of Octus Bridge transfers
+description: Octus Bridgeにおける転送の仕組み
 ---
 
-# How Octus Bridge transfers work
+# Octus Bridgeにおける転送の仕組み
 
-The Octus bridge for transferring assets between chains locks assets in the source chain and creates an equivalent number of wrapped assets in the destination blockchain.
+チェーン間でアセットを転送するOctus bridgeは、転送元チェーンにアセットをロックし(預け入れ)、転送先ブロックチェーンに同数のラップドアセットを作成します。
 
-When you initiate an asset transfer from one blockchain to another using a bridge, assets are not actually moved or sent anywhere. Instead, the transfer functionality is used in a two-step process and handled by a smart contract.
+bridgeを用いて、あるブロックチェーンから別のブロックチェーンへアセット転送を開始しても、アセットが実際に転送されたり、どこかに送られることはありません。その代わり、転送機能は2段階プロセスで使用され、スマートコントラクトによって処理されます。
 
-In simple terms - Let's say you want to move tokens from chain A to chain B. What the Octus bridge does is it temporarily locks or freezes your asset in chain A. They then create an equivalent number of new tokens that will be unlocked for you in chain B. When you want to redeem the tokens, that is, when you want to move the original assets back from chain B to the original chain (chain A), the tokens created in chain B will be burned and the original assets will be unlocked
+簡単に言うと、チェーンAからチェーンBにトークンを移動させたいとします。Octus bridgeが行うのは、チェーンAのアセットを一時的にロック(預け入れ)または凍結し、チェーンBで同数の新しいトークンを作成し、ロックを解除します。トークンをリディームしたいとき、つまり元のアセットをチェーンBから元のチェーン（チェーンA）に戻したいときは、チェーンBで作成したトークンをバーンして元のアセットのロックを解除します。
 
-The concept of interchain communication and token transfer is done using a two-way binding system; where the value of a token in either blockchain is the same, as it remains tied to the value of the initial ones.
+チェーン間通信とトークン転送のコンセプトは、双方向バインディングシステムを用いて行われます。このシステムにある、どちらのブロックチェーンのトークンの価値は、初期の価値と結びついたままなので、同じです。

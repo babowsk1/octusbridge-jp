@@ -1,17 +1,17 @@
-# About Octus Bridge Staking
+# Octus Bridgeステーキングについて
 
-Octus bridge locks tokens from some blockchains and pledges those tokens to issue wrapped tokens in others part of the locked liquidity is invested in low-risk protocols income from those protocols is Octus bridge income.
+Octus bridgeは、一部ブロックチェーンからトークンをロックし、そのトークンを担保に他のブロックチェーンでラップドトークンを発行します。ロックされた流動性の一部は低リスクのプロトコルに投資され、そのプロトコルからの収入がOctus bridgeの収入となります。
 
-The Octus bridge locks tokens from some blockchains and pledges those tokens to issue wrapped tokens on others, part of the locked liquidity is invested in low-risk protocols. The income from these protocols is the income of the Octus bridge.
+Octus bridgeは、一部ブロックチェーンからトークンをロックし、そのトークンを担保に他のブロックチェーンでラップドトークンを発行します。ロックされた流動性の一部は低リスクのプロトコルに投資され、そのプロトコルからの収入がOctus bridgeの収入となります。
 
-Stacking tokens allow you to receive a portion of that income in proportion to the tokens you stack, it's very simple - the more BRIDGE tokens you stack, the higher the income percentage will be.
+トークンを積み重ねることで、積み重ねたトークンの数に応じて、この収入の一部を受け取ることができます。BRIDGEトークンを多く積み重ねるほど、収入の割合が高くなるため、非常にシンプルです。
 
-Stacking tokens allow you to receive a portion of this income in proportion to the number of tokens you stack, it's very simple - the more BRIDGE tokens you stack, the higher the income percentage will be.
+トークンを積み重ねることで、積み重ねたトークンの数に応じて、この収入の一部を受け取ることができます。BRIDGEトークンを多く積み重ねるほど、収入の割合が高くなるため、非常にシンプルです。
 
-The profitability of stacking depends on how much liquidity is blocked, how much of this liquidity is used to earn, what is the percentage of profitability and how many BRIDGE tokens are stacked
+ステーキングの収益性は、どれだけの流動性がロックアップされているか、稼ぐためにどれぐらいの流用性を使用するのか、リターンの割合はどうか、そしてどれだけのBRIDGEトークンが積み重ねられているかに左右されます。
 
-The profitability of staking depends on how much liquidity is locked up, how much of this liquidity is used to earn, what is the percentage of return and how many BRIDGE tokens are stacked.
+ステーキングの収益性は、どれだけの流動性がロックアップされているか、稼ぐためにどれぐらいの流用性を使用するのか、リターンの割合はどうか、そしてどれだけのBRIDGEトークンが積み重ねられているかに左右されます。
 
-Earned points Octus bridge are distributed between bridge validators and stackers, when the reward is distributed the points will be burned and instead BRIDGE tokens will be credited in proportion to the accumulated points
+獲得した資金は、bridgeバリデータとスタッカーに分配されます。リワードが分配されると、ポイントはバーンされ、代わりに貯まったポイントに比例してBRIDGEトークンが付与されます。
 
-The earned funds are distributed between the bridge validators and the stackers, when the reward is distributed, the points will be burned and BRIDGE tokens will be awarded instead of them in proportion to the accumulated points.
+獲得した資金は、bridgeバリデータとスタッカーに分配されます。リワードが分配されると、ポイントはバーンされ、代わりに貯まったポイントに比例してBRIDGEトークンが付与されます。
