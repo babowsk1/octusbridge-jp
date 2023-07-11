@@ -4,8 +4,6 @@ description: Octus Bridgeのご紹介
 
 # Octus Bridgeへようこそ
 
-{% embed url="https://youtu.be/x-7boWwipKA" %}
-
 Octus BridgeはBroxusチームが構築したプラットフォームで、Everscale、Ethereum、BNB Chain、Fantom、Polygonなどのネットワーク間でクロスチェーンによるアセット転送を可能にします。
 
 また、このプラットフォームは、[**ガバナンス**](governance/)インターフェースや**分散型自立組織(DAO)**も実装しているため、[**ステーキングインターフェイス**](staking/)同様、ネットワーク参加者が直接決定を下す機能により、Bridgeにこれまでにないレベルの分散化を実現します。
